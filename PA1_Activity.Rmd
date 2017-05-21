@@ -33,7 +33,7 @@ Loading the data
 
 ```{r echo = TRUE, message = FALSE}
 
-activity <- read.csv(file="C:/Users/conni/Desktop/R Projects/activity.csv",header= T)
+activity <- read.csv("activity.csv")
 
 ```
 
