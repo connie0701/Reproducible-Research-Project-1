@@ -1,4 +1,3 @@
-# Reproducible-Research-Project-1
 ---
 title: "Reproducible Research Project 1"
 author: "Connie"
